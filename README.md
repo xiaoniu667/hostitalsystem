@@ -1,3 +1,3 @@
 # hostitalsystem
-医疗管理系统
+Medical Administrative System
 
